@@ -20,6 +20,8 @@
 
 image:{img-ci-status}[CI Status (GitLab CI), link={url-ci-pipelines}]
 
+Forked for use by libtics.
+
 This project is an archetype that demonstrates how to produce a UI bundle that can be used by {url-antora}[Antora] to generated a documentation site.
 You can see a preview of the default UI at {url-preview}.
 
