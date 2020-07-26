@@ -15,7 +15,7 @@
   ],
   "devDependencies": {
     "asciidoctor.js": "1.5.9",
-    "autoprefixer": "^9.8.0",
+    "autoprefixer": "^9.8.5",
     "browser-pack-flat": "~3.4",
     "browserify": "~16.5",
     "cssnano": "~4.1",
@@ -48,7 +48,7 @@
     "require-from-string": "~2.0",
     "stylelint": "~11.1",
     "stylelint-config-standard": "~19.0",
-    "through2": "~3.0",
+    "through2": "^3.0.2",
     "typeface-roboto": "0.0.75",
     "typeface-roboto-mono": "0.0.75",
     "vinyl-buffer": "~1.0",
